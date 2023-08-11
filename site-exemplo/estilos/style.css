@@ -1,15 +1,23 @@
-*{
-    font-family: Arial, helvetica, sans-serif;
-    font-size: 16px;
-}
-
-body{
-    background-color: rgb(204, 157, 248) ;}
+body{background-color: rgb(204, 157, 248) ;}
 
 main{
     background-color: white;
     width: 500px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba (0, 0, 0, 0.473);
-}1
+    margin-top: 60px;
+    padding: 30px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
+}
+
+header h1 {
+    font-size: 22px; 
+    font-family: Arial;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-indent: 20px;}
+
+article p {
+    font-family: Arial;
+    font-size: 16px;
+    text-indent: 20px;
+    text-align: justify; }   
