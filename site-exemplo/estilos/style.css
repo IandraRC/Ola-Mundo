@@ -12,12 +12,24 @@ main{
 header h1 {
     font-size: 22px; 
     font-family: Arial;
-    margin-bottom: 20px;
-    margin-top: 20px;
-    text-indent: 20px;}
+    margin-bottom: 5px;
+    margin-top: 15px;
+    text-indent: 20px;
+}
+
 
 article p {
     font-family: Arial;
     font-size: 16px;
     text-indent: 20px;
     text-align: justify; }   
+
+.imagem-titulo {
+        width: 150px;
+        margin-left: 200px;
+        margin-top: 0px;}
+
+.titulo-imagem {
+        display: flex;
+        align-items: flex-end;
+        }
