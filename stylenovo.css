@@ -26,10 +26,11 @@ article p {
 
 .imagem-titulo {
         width: 150px;
-        margin-left: 200px;
+        margin-left: 202px;
         margin-top: 0px;}
 
 .titulo-imagem {
         display: flex;
         align-items: flex-end;
+        
         }
